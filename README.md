@@ -15,7 +15,7 @@ Dieses Projekt wurde erstellt, um eine klare Struktur zu haben und schnell mit I
 
 ## Voraussetzungen
 
-Bevor du startest, stelle sicher, dass auf deinem System Folgendes installiert ist:
+Bevor gestartet wird, stelle sicher, dass auf deinem System Folgendes installiert ist:
 
 - Git
 - Eine passende Entwicklungsumgebung oder Laufzeitumgebung
