@@ -88,3 +88,34 @@ Dieses Projekt steht derzeit ohne spezielle Lizenz zur Verfügung. Wenn du das P
 ## Fazit
 
 Ein gutes Projekt beginnt mit klarer Kommunikation. Diese README soll leicht verständlich, erweiterbar und für Diskussionen geeignet sein.
+
+
+# Test-1
+
+This is a small test repository.
+
+## Contributing
+
+We welcome contributions from beginners. If you want to help, please read [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Good first tasks
+
+Good starter tasks include:
+
+- fixing typos or unclear wording
+- improving documentation
+- adding a small example
+- writing a small test
+- fixing a tiny bug with a clear scope
+
+## Local setup
+
+1. Fork the repository.
+2. Clone your fork.
+3. Create a new branch.
+4. Make a small, focused change.
+5. Run the relevant checks.
+6. Open a pull request.
+
+Thanks for helping out!
+
